@@ -1,4 +1,4 @@
-# SalesData-SPSS-Modeler# SalesData-SPSS-Modeler
+# SalesData-SPSS-Modeler
 
 ## Project Overview
 
